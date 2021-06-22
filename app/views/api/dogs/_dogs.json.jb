@@ -1,0 +1,7 @@
+{id: dog.id,
+breed: dog.breed,
+size: dog.size,
+colors: dog.colors,
+life_expectancy: dog.life_expectancy,
+image: dog.image,
+}
